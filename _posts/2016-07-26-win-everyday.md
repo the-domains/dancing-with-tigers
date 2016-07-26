@@ -1,19 +1,19 @@
 ---
+datePublished: '2016-07-26T13:10:56.791Z'
+sourcePath: _posts/2016-07-26-win-everyday.md
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-07-26T10:28:11.046Z'
-dateModified: '2016-07-26T10:24:01.782Z'
-title: ''
 authors: []
-publisher: {}
+hasPage: true
+keywords: []
 author: []
 via: {}
+dateModified: '2016-07-26T13:10:54.219Z'
+title: ''
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
 starred: false
-sourcePath: _posts/2016-07-26-win-everyday.md
 url: win-everyday/index.html
 _type: Article
 
