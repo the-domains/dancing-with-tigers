@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-26T13:10:56.791Z'
+datePublished: '2016-07-26T13:10:55.684Z'
 sourcePath: _posts/2016-07-26-win-everyday.md
 inFeed: true
 authors: []
