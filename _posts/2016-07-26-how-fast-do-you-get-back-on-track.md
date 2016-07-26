@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: HOW FAST DO YOU GET BACK ON TRACK?
-datePublished: '2016-07-26T12:56:41.041Z'
-dateModified: '2016-07-26T10:44:50.670Z'
+datePublished: '2016-07-26T08:43:20.133Z'
+dateModified: '2016-07-26T08:42:59.270Z'
 title: ''
 author: []
 via: {}
@@ -18,6 +18,9 @@ url: how-fast-do-you-get-back-on-track/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c022ca67-45c1-4957-a56e-cef4ed8f18c4.png)
+
+  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/411c0a42-a135-47b0-8640-149ec6688e99.jpg)
 
 HOW FAST DO YOU GET BACK ON TRACK?
@@ -42,4 +45,5 @@ How quickly can I get back to feeling happy again?
 
 That is my bounce-factor. 
 
-I've decided that no matter what, I will be back on Track TODAY, before I go to bed, no matter what.
+I've decided that no matter what, I will be back on Track TODAY, before I go to bed, no matter what. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fd2fd93-8987-4e41-9845-95f8ebf04a83.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97d3d7cb-82ac-4ce7-be7e-0862c85c46c6.jpg)
