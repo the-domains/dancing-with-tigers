@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - id: b987de6e-6b23-4907-9692-0d9cb4610abe
+    name: NEXT BATCH DATES
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d01d8462-9c13-43c7-9fb9-0fdb4440fbb2.png
 collections:
