@@ -5,19 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: HOW FAST DO YOU GET BACK ON TRACK?
-datePublished: '2016-07-26T08:33:40.849Z'
-dateModified: '2016-07-26T08:30:16.317Z'
+datePublished: '2016-07-26T12:56:41.041Z'
+dateModified: '2016-07-26T10:44:50.670Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-26-how-fast-do-you-get-back-on-track.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-26-how-fast-do-you-get-back-on-track.md
 url: how-fast-do-you-get-back-on-track/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/411c0a42-a135-47b0-8640-149ec6688e99.jpg)
+
 HOW FAST DO YOU GET BACK ON TRACK?
 
 Since 2012, I have been meditating everyday. Until a few months ago, I had not missed a single day. Be it travel, be it a late night, be it visitors at home, be it whatever, not a day had been missed. 
@@ -40,4 +42,4 @@ How quickly can I get back to feeling happy again?
 
 That is my bounce-factor. 
 
-I've decided that no matter what, I will be back on Track TODAY, before I go to bed, no matter what. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9953658-e8da-4f18-932c-54dec7953808.jpg)
+I've decided that no matter what, I will be back on Track TODAY, before I go to bed, no matter what.
