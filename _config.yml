@@ -1,19 +1,7 @@
 name: Dancing with Tigers
 favicon: null
-layout_spectrum: 0.2849462
-typography_spectrum: 0.344086
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+layout_spectrum: 0.16611185087822378
+typography_spectrum: 0.1093502591829747
 cta:
   domain: null
   bucket: null
@@ -28,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#D4943B'
-    - '#BC5431'
-    - '#AEAEAE'
-    - '#FBF180'
-  brandStrength: 0.5
-  lightness: 0.7581369
-  saturation: 0.5
-  rhythmicContrast: 0.4749104
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5267198451329023
+  lightness: 0.7581369320396334
+  saturation: 0.28170979698188603
+  rhythmicContrast: 0.3995582894422114
 purpose: []
